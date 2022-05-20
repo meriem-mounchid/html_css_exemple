@@ -1,0 +1,28 @@
+.divtest {
+    margin: auto;
+    width: 60%;
+    height: 500px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    background: white;
+}
+ 
+ h1{
+     color: pink;
+ }
+
+ b{
+     color: white;
+ }
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .enderdiv {
+    width: 100px;
+    height: 100px;
+    border: 3px solid #3a1395;
+  }
